@@ -2,8 +2,8 @@
 Bajate todas las peliculas de [MiraDeTodo](www.miradetodo.net) y guardalas en una base de datos MySQL para despues hacer lo que quieras con ellas.
 ### ¿Que se baja?
  Pelicula
-|idPelicula| nombre | anio| cantidadVotos|puntuacion|
-|--|--|--|--|--|--|
+| idPelicula | nombre | anio | cantidadVotos | puntuacion |
+|---|---|---|---|---|
 
 linkpelicula
 |idPelicula| link|
